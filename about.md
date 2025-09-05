@@ -20,7 +20,7 @@ We summarize public filings, industry reports, and market data into accessible p
 ![Principal Market Analyst]({{ '/assets/images/market-analyst.png' | relative_url }})
 *Severin, Principal Market Analyst*
 
-![Regional Analyst]({{ '/assets/images/regional-analyst.png' | relative_url }})
+![Regional Analyst]({{ '/assets/images/regional-analyst.jpg' | relative_url }})
 *Roger, Regional Analyst (Chinese Taipei)*
 
 ![Intern]({{ '/assets/images/intern.png' | relative_url }})
