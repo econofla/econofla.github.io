@@ -1,4 +1,4 @@
-# Silicon Economics Review (Jekyll for GitHub Pages)
+# Silicon Review (Jekyll for GitHub Pages)
 
 A Jekyll site for economic reviews focused on the silicon industry.
 

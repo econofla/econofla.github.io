@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Silicon Economics Review** publishes clear, referenced economic reviews covering:
+**Silicon Review** publishes clear, referenced economic reviews covering:
 - Wafer pricing trends and capacity utilization
 - Fab construction and equipment cycles (lithography, etch, deposition)
 - Supply chain risk and geographic concentration
