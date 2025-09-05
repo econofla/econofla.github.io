@@ -1,6 +1,6 @@
 ---
 title: "Silicon Demand from Electric Vehicles"
-date: 2025-09-01
+date: 2025-09-11
 tags: [semiconductors, silicon, economics]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Sustainability and Energy Demands of Fabs"
-date: 2025-09-01
+date: 2025-09-10
 tags: [semiconductors, silicon, economics]
 ---
 

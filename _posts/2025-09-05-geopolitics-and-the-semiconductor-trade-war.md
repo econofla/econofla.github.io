@@ -1,6 +1,6 @@
 ---
 title: "Geopolitics and the Semiconductor Trade War"
-date: 2025-09-01
+date: 2025-08-25
 tags: [semiconductors, silicon, economics]
 ---
 

@@ -14,17 +14,18 @@ We summarize public filings, industry reports, and market data into accessible p
 
 ## Our Team
 
-![Chief Editor]({{ '/assets/images/chief-editor.png' | relative_url }})
+
+<img src="{{ '/assets/images/chief-editor.png' | relative_url }}" alt="Chief Editor" width="140" />
 *Flavien, Chief Editor*
 
-![Principal Market Analyst]({{ '/assets/images/market-analyst.png' | relative_url }})
+<img src="{{ '/assets/images/market-analyst.png' | relative_url }}" alt="Principal Market Analyst" width="140" />
 *Severin, Principal Market Analyst*
 
-![Regional Analyst]({{ '/assets/images/regional-analyst.jpg' | relative_url }})
+<img src="{{ '/assets/images/regional-analyst.jpg' | relative_url }}" alt="Regional Analyst" width="140" />
 *Roger, Regional Analyst (Chinese Taipei)*
 
-![Intern]({{ '/assets/images/intern.png' | relative_url }})
-*Yingchen, Intern \& Facility Management*
+<img src="{{ '/assets/images/intern.png' | relative_url }}" alt="Intern" width="140" />
+*Yingchen, Intern*
 
 
 **We are hiring a new market analyst (Eurasia).**

@@ -1,6 +1,6 @@
 ---
 title: "Silicon Carbide and Gallium Nitride Expansion"
-date: 2025-09-01
+date: 2025-09-06
 tags: [semiconductors, silicon, economics]
 ---
 

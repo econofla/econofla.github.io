@@ -1,6 +1,6 @@
 ---
 title: "Venture Capital Investment in Semiconductor Startups"
-date: 2025-09-01
+date: 2025-09-02
 tags: [semiconductors, silicon, economics]
 ---
 
