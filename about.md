@@ -21,6 +21,10 @@ We summarize public filings, industry reports, and market data into accessible p
 *Severin, Principal Market Analyst*
 
 ![Regional Analyst]({{ '/assets/images/regional-analyst.png' | relative_url }})
-*Roger, Regional Analyst (Taiwan)*
+*Roger, Regional Analyst (Chinese Taipei)*
+
+![Regional Analyst]({{ '/assets/images/intern.png' | relative_url }})
+*Yingchen, Intern \& Facility Management*
+
 
 **We are hiring a new market analyst (Eurasia).**
