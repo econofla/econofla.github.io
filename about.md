@@ -11,3 +11,11 @@ permalink: /about/
 - Demand dynamics across logic, memory, analog, and power
 
 We summarize public filings, industry reports, and market data into accessible posts.
+
+## Our Team
+
+![Chief Editor]({{ '/assets/images/chief-editor.png' | relative_url }})
+*Flavien, Chief Editor*
+
+![Market Analyst]({{ '/assets/images/market-analyst.png' | relative_url }})
+*Severin, Market Analyst*
