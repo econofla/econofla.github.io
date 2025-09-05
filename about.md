@@ -23,7 +23,7 @@ We summarize public filings, industry reports, and market data into accessible p
 ![Regional Analyst]({{ '/assets/images/regional-analyst.png' | relative_url }})
 *Roger, Regional Analyst (Chinese Taipei)*
 
-![Regional Analyst]({{ '/assets/images/intern.png' | relative_url }})
+![Intern]({{ '/assets/images/intern.png' | relative_url }})
 *Yingchen, Intern \& Facility Management*
 
 
