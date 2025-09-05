@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-04T19:39:53-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silicon Economics Review</title><subtitle>Independent, data-driven economic reviews of the silicon industry — wafers, semiconductors, supply chains, and capital cycles.</subtitle><author><name>Silicon Economics Review</name><email></email></author><entry><title type="html">Foundry Capex Outlook</title><link href="http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook/" rel="alternate" type="text/html" title="Foundry Capex Outlook" /><published>2025-09-04T00:00:00-07:00</published><updated>2025-09-04T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook/"><![CDATA[<p><strong>Summary.</strong> Announced foundry capex points to a mixed picture across the semiconductor manufacturing landscape. Leading-edge logic nodes at <strong>3nm and below</strong> continue to attract substantial investment, with TSMC allocating approximately <strong>$32-36 billion</strong> in capital expenditure for 2025, while Samsung maintains a <strong>$25-28 billion</strong> commitment. However, mature-node expansions are showing signs of moderation as demand patterns shift and capacity utilization rates stabilize around <strong>85-90%</strong> for nodes above 28nm.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-04T20:02:18-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silicon Economics Review</title><subtitle>Independent, data-driven economic reviews of the silicon industry — wafers, semiconductors, supply chains, and capital cycles.</subtitle><author><name>Silicon Economics Review</name><email></email></author><entry><title type="html">Foundry Capex Outlook</title><link href="http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook/" rel="alternate" type="text/html" title="Foundry Capex Outlook" /><published>2025-09-04T00:00:00-07:00</published><updated>2025-09-04T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/04/foundry-capex-outlook/"><![CDATA[<p><strong>Summary.</strong> Announced foundry capex points to a mixed picture across the semiconductor manufacturing landscape. Leading-edge logic nodes at <strong>3nm and below</strong> continue to attract substantial investment, with TSMC allocating approximately <strong>$32-36 billion</strong> in capital expenditure for 2025, while Samsung maintains a <strong>$25-28 billion</strong> commitment. However, mature-node expansions are showing signs of moderation as demand patterns shift and capacity utilization rates stabilize around <strong>85-90%</strong> for nodes above 28nm.</p>
 
 <p>The current foundry investment cycle reflects a fundamental divergence between cutting-edge process technology development and established manufacturing capabilities. <strong>TSMC’s Arizona facilities</strong> represent a <strong>$40 billion</strong> commitment through 2026, focusing on 4nm and 3nm production with initial capacity targets of <strong>20,000 wafers per month</strong> by late 2024. Meanwhile, Intel’s foundry services division has earmarked <strong>$20 billion</strong> for Ohio fabrication facilities, targeting <strong>18A and 20A nodes</strong> with production readiness expected by 2025.</p>
 
@@ -10,7 +10,151 @@
 
 <p>The equipment vendor landscape provides additional insight into foundry investment patterns. <strong>Applied Materials</strong> reported foundry-related orders representing <strong>65%</strong> of total semiconductor equipment bookings in Q3 2024, while <strong>Lam Research</strong> indicated <strong>40%</strong> growth in foundry segment revenues year-over-year. These figures suggest sustained momentum despite broader industry cyclicality.</p>
 
-<p><strong>Take.</strong> Expect staggered ramp timing across different technology nodes and geographical regions through 2026. Leading-edge facilities will likely achieve meaningful production volumes by <strong>Q3 2025</strong>, while mature-node expansions face longer lead times due to infrastructure limitations. Monitor tool vendors’ order books quarterly for confirmation of sustained momentum, particularly <strong>ASML’s EUV delivery schedules</strong> and <strong>KLA’s process control equipment</strong> orders, which serve as leading indicators for actual fab readiness. The <strong>18-24 month lag</strong> between equipment orders and production ramp remains a critical factor in capacity planning accuracy.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="foundry" /><category term="capex" /><category term="equipment" /><summary type="html"><![CDATA[Summary. Announced foundry capex points to a mixed picture across the semiconductor manufacturing landscape. Leading-edge logic nodes at 3nm and below continue to attract substantial investment, with TSMC allocating approximately $32-36 billion in capital expenditure for 2025, while Samsung maintains a $25-28 billion commitment. However, mature-node expansions are showing signs of moderation as demand patterns shift and capacity utilization rates stabilize around 85-90% for nodes above 28nm.]]></summary></entry><entry><title type="html">Wafer Prices: Q3 Review</title><link href="http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review/" rel="alternate" type="text/html" title="Wafer Prices: Q3 Review" /><published>2025-09-03T00:00:00-07:00</published><updated>2025-09-03T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review/"><![CDATA[<p><strong>Summary.</strong> The third quarter of 2025 witnessed a <strong>divergent pricing environment</strong> across wafer segments, with 300mm wafer pricing demonstrating remarkable stability while 200mm markets experienced meaningful tightening driven by specialty node demand. Contract pricing negotiations reflected <strong>stable utilization rates</strong> across leading global suppliers, with capacity constraints continuing to shape market dynamics.</p>
+<p><strong>Take.</strong> Expect staggered ramp timing across different technology nodes and geographical regions through 2026. Leading-edge facilities will likely achieve meaningful production volumes by <strong>Q3 2025</strong>, while mature-node expansions face longer lead times due to infrastructure limitations. Monitor tool vendors’ order books quarterly for confirmation of sustained momentum, particularly <strong>ASML’s EUV delivery schedules</strong> and <strong>KLA’s process control equipment</strong> orders, which serve as leading indicators for actual fab readiness. The <strong>18-24 month lag</strong> between equipment orders and production ramp remains a critical factor in capacity planning accuracy.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="foundry" /><category term="capex" /><category term="equipment" /><summary type="html"><![CDATA[Summary. Announced foundry capex points to a mixed picture across the semiconductor manufacturing landscape. Leading-edge logic nodes at 3nm and below continue to attract substantial investment, with TSMC allocating approximately $32-36 billion in capital expenditure for 2025, while Samsung maintains a $25-28 billion commitment. However, mature-node expansions are showing signs of moderation as demand patterns shift and capacity utilization rates stabilize around 85-90% for nodes above 28nm.]]></summary></entry><entry><title type="html">US CHIPS Act Progress and Challenges</title><link href="http://localhost:4000/reviews/2025/09/04/us-chips-act-progress-and-challenges/" rel="alternate" type="text/html" title="US CHIPS Act Progress and Challenges" /><published>2025-09-04T00:00:00-07:00</published><updated>2025-09-04T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/04/us-chips-act-progress-and-challenges</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/04/us-chips-act-progress-and-challenges/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>The <strong>US CHIPS Act</strong> was passed with the ambition to restore American
+leadership in semiconductor manufacturing and reduce reliance on foreign
+supply chains. It provides more than <strong>$50 billion</strong> in subsidies and
+incentives for chipmakers, research institutions, and supply chain
+partners. The initiative reflects not only economic motivations but also
+<strong>national security</strong> concerns, given the heavy dependence on Asia for
+advanced silicon production. However, progress has been uneven, and the
+challenges remain formidable.</p>
+
+<hr />
+
+<h2 id="funding-and-incentives">Funding and Incentives</h2>
+
+<p>One of the core features of the CHIPS Act is its funding mechanism. The
+majority of the subsidies are allocated to large-scale fabs built by
+global leaders such as TSMC, Samsung, and Intel. Smaller portions
+support R&amp;D hubs and workforce development.</p>
+
+<p>While the initial announcements generated excitement, the <strong>disbursement
+of funds has been slow</strong>. Companies often face lengthy review processes,
+compliance requirements, and uncertainty about final subsidy amounts.
+This has caused delays in construction schedules and raised questions
+about whether the program is agile enough to keep pace with global
+competitors.</p>
+
+<p>Despite these hurdles, the financial support has already sparked new
+projects in Arizona, Texas, Ohio, and New York. Collectively, these
+sites are expected to add tens of billions of dollars in new capacity by
+the late 2020s.</p>
+
+<hr />
+
+<h2 id="supply-chain-localization">Supply Chain Localization</h2>
+
+<p>The CHIPS Act aims not just to build fabs but to create a <strong>complete
+domestic ecosystem</strong>. This includes materials, equipment, and packaging.
+The logic is clear: without localized suppliers, US fabs will remain
+dependent on imports for critical steps in the production chain.</p>
+
+<p>However, this vision faces obstacles. Specialized chemicals and advanced
+manufacturing equipment remain dominated by suppliers in Japan, the
+Netherlands, and Germany. Efforts to replicate these industries in the
+US will require years of investment and sustained coordination. Without
+them, the US risks creating “fab shells” that still rely heavily on
+foreign inputs.</p>
+
+<hr />
+
+<h2 id="workforce-development">Workforce Development</h2>
+
+<p>Another major challenge is workforce readiness. Advanced fabs require
+thousands of skilled engineers, technicians, and operators. Yet the <strong>US
+talent pipeline is strained</strong>, with shortages of electrical engineers
+and material scientists.</p>
+
+<p>The CHIPS Act sets aside funding for training programs and university
+partnerships, but results will take time. Moreover, retaining global
+talent is complicated by immigration policies, which restrict the inflow
+of highly skilled workers who are essential for rapid industry scaling.</p>
+
+<hr />
+
+<h2 id="geopolitical-competition">Geopolitical Competition</h2>
+
+<p>The CHIPS Act cannot be understood in isolation. It is part of a global
+wave of industrial policy. The <strong>EU Chips Act</strong>, China’s <strong>Made in China
+2025</strong> strategy, and Japan’s subsidies for local champions all form part
+of a contested landscape.</p>
+
+<p>This creates a subsidy race. Companies may shop for the most attractive
+packages, forcing governments to continually increase their offers. For
+the US, this raises the risk of <strong>overspending without guaranteeing
+success</strong>, especially if projects are delayed or fail to achieve
+targeted capacity.</p>
+
+<hr />
+
+<h2 id="economic-consequences">Economic Consequences</h2>
+
+<p>The immediate effect of the CHIPS Act has been a surge in construction
+activity and supplier commitments. This provides a short-term boost for
+US employment and regional economies where fabs are being built.</p>
+
+<p>However, the long-term economic implications are more complex.
+Subsidized fabs will need to remain competitive once incentives expire.
+If they cannot achieve cost parity with Asian peers, they may struggle
+to attract sufficient demand. This is especially true for <strong>leading-edge
+nodes</strong>, where scale and experience are critical to cost efficiency.</p>
+
+<p>On the other hand, upstream suppliers—such as equipment makers and
+specialty material firms—stand to gain substantially, as new fabs
+guarantee a baseline of demand for their products.</p>
+
+<hr />
+
+<h2 id="outlook-and-scenarios">Outlook and Scenarios</h2>
+
+<p>The future of the CHIPS Act can be considered across three scenarios:</p>
+
+<ul>
+  <li><strong>Base case:</strong> Subsidy-supported fabs come online gradually between
+2026 and 2029. Capacity increases, but the US remains a minority
+player compared to Asia. The program helps diversify supply chains
+but does not fundamentally alter global leadership.\</li>
+  <li><strong>Bull case:</strong> Streamlined funding, faster construction, and
+complementary workforce and supplier initiatives succeed. The US
+regains meaningful share in advanced nodes and becomes a serious
+competitor by the early 2030s.\</li>
+  <li><strong>Bear case:</strong> Delays, cost overruns, and political disputes
+undermine progress. Subsidies fail to create sustainable capacity,
+leaving the US still dependent on Asian supply even after billions
+of dollars spent.</li>
+</ul>
+
+<hr />
+
+<h2 id="risks-to-monitor">Risks to Monitor</h2>
+
+<p>Several risks could shape the trajectory of the CHIPS Act:\</p>
+<ul>
+  <li><strong>Construction delays</strong> due to permitting or labor shortages.\</li>
+  <li><strong>Escalating costs</strong> as subsidy races intensify globally.\</li>
+  <li><strong>Technological shifts</strong> that render some fabs obsolete before
+completion.\</li>
+  <li><strong>Geopolitical shocks</strong>, such as a Taiwan crisis, which could either
+accelerate or derail US initiatives.</li>
+</ul>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The <strong>US CHIPS Act Progress and Challenges</strong> demonstrates how deeply
+semiconductors are tied to economic, political, and security strategies.
+While the Act has launched ambitious projects and renewed focus on
+domestic capacity, it faces persistent obstacles in funding, supply
+chain localization, and workforce readiness.</p>
+
+<p>The ultimate test will be whether the US can not only build fabs but
+also create a <strong>resilient, diversified, and sustainable</strong> ecosystem. The
+next decade will determine if the CHIPS Act was a turning point in
+semiconductor history or merely a costly experiment in industrial
+policy.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="semiconductors" /><category term="silicon" /><category term="economics" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Wafer Prices: Q3 Review</title><link href="http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review/" rel="alternate" type="text/html" title="Wafer Prices: Q3 Review" /><published>2025-09-03T00:00:00-07:00</published><updated>2025-09-03T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/03/wafer-prices-q3-review/"><![CDATA[<p><strong>Summary.</strong> The third quarter of 2025 witnessed a <strong>divergent pricing environment</strong> across wafer segments, with 300mm wafer pricing demonstrating remarkable stability while 200mm markets experienced meaningful tightening driven by specialty node demand. Contract pricing negotiations reflected <strong>stable utilization rates</strong> across leading global suppliers, with capacity constraints continuing to shape market dynamics.</p>
 
 <p><strong>Context.</strong> The global wafer supply chain remains fundamentally constrained by <strong>extended lead times</strong> in crystal growth operations and polishing capacity limitations. Major suppliers including Shin-Etsu Chemical, SUMCO, and Siltronic continue to operate at <strong>near-maximum utilization rates</strong> of 95-98%, with new capacity additions limited by the 18-24 month lead times required for crystal pulling equipment installation. The industry’s <strong>consolidated supplier base</strong> has created structural supply discipline, with the top five suppliers controlling approximately <strong>85% of global 300mm capacity</strong> and <strong>78% of 200mm capacity</strong>.</p>
 
@@ -96,14 +240,4 @@
 
 <p>The outlook remains tight over the next two years. In the <strong>base case</strong>, capacity slowly expands but shortages remain visible. In a <strong>bull case</strong>, breakthroughs or accelerated construction ease pressures earlier. In a <strong>bear case</strong>, political or supply disruptions worsen shortages and delay technological adoption.</p>
 
-<p>Overall, the <strong>Geopolitics and the Semiconductor Trade War</strong> illustrates how central silicon has become to global economic and political strategies. It is not only about producing more chips but ensuring that production is <strong>resilient, diversified, and sustainable</strong>.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="semiconductors" /><category term="silicon" /><category term="economics" /><summary type="html"><![CDATA[The Geopolitics and the Semiconductor Trade War is becoming an increasingly important part of the global silicon economy. Recent developments show that the industry is under pressure from multiple directions: demand growth, supply limitations, and policy interventions.]]></summary></entry><entry><title type="html">Global Fab Construction Pipeline</title><link href="http://localhost:4000/reviews/2025/09/01/global-fab-construction-pipeline/" rel="alternate" type="text/html" title="Global Fab Construction Pipeline" /><published>2025-09-01T00:00:00-07:00</published><updated>2025-09-01T00:00:00-07:00</updated><id>http://localhost:4000/reviews/2025/09/01/global-fab-construction-pipeline</id><content type="html" xml:base="http://localhost:4000/reviews/2025/09/01/global-fab-construction-pipeline/"><![CDATA[<p>The <strong>Global Fab Construction Pipeline</strong> is becoming an increasingly important part of the global silicon economy. Recent developments show that the industry is under pressure from multiple directions: demand growth, supply limitations, and policy interventions.</p>
-
-<p>Market data indicates that capacity is stretched, with utilization rates remaining high and lead times extended. Prices for critical components such as wafers, memory, or specialized equipment are trending upward. This creates opportunities for upstream suppliers but pressure on downstream buyers.</p>
-
-<p>The main drivers of this situation include continued growth in <strong>AI</strong>, expanding use of <strong>electric vehicles</strong>, and ongoing geopolitical competition. Policy measures in the US, EU, and Asia are attempting to rebalance supply, but these efforts require time and massive investment.</p>
-
-<p>The economic consequences are wide-ranging. Suppliers maintain strong pricing power. Buyers face constraints and must adapt through long-term contracts or multi-sourcing. Regional imbalances persist, with Asia holding most of the advanced capacity. Investors monitor equipment makers and materials providers as potential winners.</p>
-
-<p>The outlook remains tight over the next two years. In the <strong>base case</strong>, capacity slowly expands but shortages remain visible. In a <strong>bull case</strong>, breakthroughs or accelerated construction ease pressures earlier. In a <strong>bear case</strong>, political or supply disruptions worsen shortages and delay technological adoption.</p>
-
-<p>Overall, the <strong>Global Fab Construction Pipeline</strong> illustrates how central silicon has become to global economic and political strategies. It is not only about producing more chips but ensuring that production is <strong>resilient, diversified, and sustainable</strong>.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="semiconductors" /><category term="silicon" /><category term="economics" /><summary type="html"><![CDATA[The Global Fab Construction Pipeline is becoming an increasingly important part of the global silicon economy. Recent developments show that the industry is under pressure from multiple directions: demand growth, supply limitations, and policy interventions.]]></summary></entry></feed>
+<p>Overall, the <strong>Geopolitics and the Semiconductor Trade War</strong> illustrates how central silicon has become to global economic and political strategies. It is not only about producing more chips but ensuring that production is <strong>resilient, diversified, and sustainable</strong>.</p>]]></content><author><name>Editorial Team</name></author><category term="reviews" /><category term="semiconductors" /><category term="silicon" /><category term="economics" /><summary type="html"><![CDATA[The Geopolitics and the Semiconductor Trade War is becoming an increasingly important part of the global silicon economy. Recent developments show that the industry is under pressure from multiple directions: demand growth, supply limitations, and policy interventions.]]></summary></entry></feed>
