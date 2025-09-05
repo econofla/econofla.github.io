@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "Silicon Economics Review"
+title: "Silicon Review"
 ---
 
-Welcome to **Silicon Economics Review**: independent, data-driven analysis on the global silicon industry: wafers, semiconductor fabrication, packaging, capital expenditure cycles, and supply chains.
+Welcome to **Silicon Review**: independent, data-driven analysis on the global silicon industry: wafers, semiconductor fabrication, packaging, capital expenditure cycles, and supply chains.
 
 Below you'll find our latest reviews. For our approach, see [Methodology](/methodology).
 <div class="hero">
-	<h1>Silicon Economics Review</h1>
+	<h1>Silicon Review</h1>
 	<p class="subtitle">Independent, data-driven analysis of the global silicon industry</p>
 	<ul class="hero-tags">
 		<li>Wafers</li>
@@ -20,7 +20,7 @@ Below you'll find our latest reviews. For our approach, see [Methodology](/metho
 
 <!-- <section class="featured-intro">
 	<p>
-		Welcome to <strong>Silicon Economics Review</strong>, your source for in-depth reviews and insights on the silicon industry. We cover everything from wafer markets to advanced packaging, global fab construction, and the economics driving semiconductor supply chains.
+		Welcome to <strong>Silicon Review</strong>, your source for in-depth reviews and insights on the silicon industry. We cover everything from wafer markets to advanced packaging, global fab construction, and the economics driving semiconductor supply chains.
 	</p>
 	<p>
 		<a class="btn" href="/methodology">See our methodology</a>
