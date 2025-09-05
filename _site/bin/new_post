@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ $# -lt 1 ]; then
+  echo "Usage: bin/new_post \"Post Title\" [slug]"
+  exit 1
+fi
+
+TITLE="$1"
+SLUG="${2:-$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g;s/^-|-$//g')}"
+DATE=$(date +"%Y-%m-%d")
+FILE="_posts/${DATE}-${SLUG}.md"
+
+mkdir -p _posts
+
+cat > "$FILE" <<EOF
+---
+title: "${TITLE}"
+date: ${DATE}
+tags: [silicon, economics]
+---
+
+**Summary.**
+
+**Context.**
+
+**Data.**
+
+**Drivers.**
+
+**Outlook.**
+EOF
+
+echo "Created ${FILE}"

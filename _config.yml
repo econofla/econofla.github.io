@@ -1,0 +1,47 @@
+title: "Silicon Economics Review"
+description: "Independent, data-driven economic reviews of the silicon industry — wafers, semiconductors, supply chains, and capital cycles."
+url: ""            # set this to your GitHub Pages URL, e.g. https://username.github.io
+baseurl: ""        # set this if using a project site, e.g. /silicon-economics-site
+
+# Author info
+author:
+  name: "Silicon Economics Review"
+  email: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Collections & defaults
+collections:
+  posts:
+    output: true
+
+# Plugins (GitHub Pages allows a safe subset included via github-pages gem)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO & social
+minima:
+  date_format: "%B %-d, %Y"
+
+# Navigation (for minima)
+header_pages:
+  - about.md
+  - methodology.md
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      category: "reviews"
+      tags: ["silicon", "semiconductors", "economics"]
+      author: "Editorial Team"
