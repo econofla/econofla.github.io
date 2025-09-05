@@ -1,6 +1,6 @@
 ---
 title: "Global Silicon Wafer Market Outlook"
-date: 2025-09-01
+date: 2025-08-24
 tags: [semiconductors, silicon, economics]
 ---
 

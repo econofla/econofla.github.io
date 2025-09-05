@@ -1,6 +1,6 @@
 ---
 title: "Chip Shortages Amid the AI Boom: Extended Narrative"
-date: 2025-09-01
+date: 2025-08-31
 tags: [AI, semiconductors, shortages, demand, supply-chain]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Packaging Trends and Bottlenecks"
-date: 2025-09-01
+date: 2025-09-05
 tags: [semiconductors, silicon, economics]
 ---
 

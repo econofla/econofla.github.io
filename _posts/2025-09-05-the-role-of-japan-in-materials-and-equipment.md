@@ -1,6 +1,6 @@
 ---
 title: "The Role of Japan in Materials and Equipment"
-date: 2025-09-01
+date: 2025-09-08
 tags: [semiconductors, silicon, economics]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "China’s Push for Semiconductor Independence"
-date: 2025-09-01
+date: 2025-08-28
 tags: [semiconductors, silicon, economics]
 ---
 

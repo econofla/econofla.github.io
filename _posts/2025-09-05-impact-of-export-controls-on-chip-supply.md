@@ -1,6 +1,6 @@
 ---
 title: "Impact of Export Controls on Chip Supply"
-date: 2025-09-01
+date: 2025-08-23
 tags: [semiconductors, silicon, economics]
 ---
 

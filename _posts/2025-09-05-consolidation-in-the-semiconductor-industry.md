@@ -1,6 +1,6 @@
 ---
 title: "Consolidation in the Semiconductor Industry"
-date: 2025-09-01
+date: 2025-08-27
 tags: [semiconductors, silicon, economics]
 ---
 

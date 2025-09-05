@@ -1,6 +1,6 @@
 ---
 title: "EU Chips Act and Its Global Implications"
-date: 2025-09-01
+date: 2025-08-26
 tags: [semiconductors, silicon, economics]
 ---
 

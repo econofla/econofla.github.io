@@ -1,6 +1,6 @@
 ---
 title: "Resilience Strategies for Semiconductor Supply Chains"
-date: 2025-09-01
+date: 2025-08-22
 tags: [semiconductors, silicon, economics]
 ---
 

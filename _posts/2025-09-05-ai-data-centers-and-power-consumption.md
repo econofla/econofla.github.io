@@ -1,6 +1,6 @@
 ---
 title: "AI Data Centers and Power Consumption"
-date: 2025-09-01
+date: 2025-09-05
 tags: [semiconductors, silicon, economics]
 ---
 

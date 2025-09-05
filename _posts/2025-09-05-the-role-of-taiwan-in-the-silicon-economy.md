@@ -1,6 +1,6 @@
 ---
 title: "The Role of Taiwan in the Silicon Economy"
-date: 2025-09-01
+date: 2025-09-02
 tags: [semiconductors, silicon, economics]
 ---
 

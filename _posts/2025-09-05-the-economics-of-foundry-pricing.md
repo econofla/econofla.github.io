@@ -1,6 +1,6 @@
 ---
 title: "The Economics of Foundry Pricing"
-date: 2025-09-01
+date: 2025-09-07
 tags: [semiconductors, silicon, economics]
 ---
 

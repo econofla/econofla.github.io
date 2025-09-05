@@ -6,9 +6,9 @@ title: "Silicon Review"
 Welcome to **Silicon Review**: independent, data-driven analysis on the global silicon industry: wafers, semiconductor fabrication, packaging, capital expenditure cycles, and supply chains.
 
 Below you'll find our latest reviews. For our approach, see [Methodology](/methodology).
+
 <div class="hero">
-	<h1>Silicon Review</h1>
-	<p class="subtitle">Independent, data-driven analysis of the global silicon industry</p>
+	<p class="subtitle">We provide an independent, data-driven analysis of the global silicon industry:</p>
 	<ul class="hero-tags">
 		<li>Wafers</li>
 		<li>Semiconductor Fabs</li>
@@ -29,15 +29,15 @@ Below you'll find our latest reviews. For our approach, see [Methodology](/metho
 
 <section class="latest-reviews">
 	<h2>Latest Reviews</h2>
-	<ul class="post-list">
+	<div class="post-list">
 		{% for post in site.posts limit:6 %}
-			<li class="post-card">
+			<div class="post-card">
 				<a href="{{ post.url | relative_url }}">
 					<h3>{{ post.title }}</h3>
 					<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 					<p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
 				</a>
-			</li>
+			</div>
 		{% endfor %}
-	</ul>
+	</div>
 </section>
