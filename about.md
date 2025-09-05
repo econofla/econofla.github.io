@@ -17,5 +17,10 @@ We summarize public filings, industry reports, and market data into accessible p
 ![Chief Editor]({{ '/assets/images/chief-editor.png' | relative_url }})
 *Flavien, Chief Editor*
 
-![Market Analyst]({{ '/assets/images/market-analyst.png' | relative_url }})
-*Severin, Market Analyst*
+![Principal Market Analyst]({{ '/assets/images/market-analyst.png' | relative_url }})
+*Severin, Principal Market Analyst*
+
+![Regional Analyst]({{ '/assets/images/regional-analyst.png' | relative_url }})
+*Roger, Regional Analyst (Taiwan)*
+
+**We are hiring a new market analyst (Eurasia).**
